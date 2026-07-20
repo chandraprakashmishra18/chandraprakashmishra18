@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">🚀 Chandraprakash Mishra</h1>
+<h1 align="center">🚀 Chandra Prakash Mishra</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Specialist;Data+Structures+%26+Algorithms;Open+Source+Contributor;Building+Impactful+Products" />
