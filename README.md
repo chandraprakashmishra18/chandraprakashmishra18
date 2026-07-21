@@ -47,7 +47,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandraprakashmishra18&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=chandraprakashmishra18&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -104,15 +103,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ======================= TROPHIES ======================= -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandraprakashmishra18&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
 
 <br/>
 
