@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/chandraprakashmishra18?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/chandraprakashmishra18&label=Public%20Repos&query=$.public_repos&color=7209B7&style=flat-square" alt="Public Repos"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandraprakashmishra18&label=Public%20Repos&query=%24.public_repos&color=7209B7&style=flat-square" alt="Public Repos"/>
   </a>
 </p>
 
@@ -54,11 +54,8 @@
 ## 📊 GitHub Analytics — Live Data
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandraprakashmishra18&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=chandraprakashmishra18&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-> ⚠️ **These two cards run on a shared free public server and occasionally fail to load or time out** — this isn't something wrong with your README, it's the hosting service being overloaded. If a card shows a broken image, refresh the page or wait a few minutes and it will usually come back. See "Making it bulletproof" below for a permanent fix.
 
 <br/>
 
@@ -135,15 +132,6 @@
 
 <br/>
 
-<!-- ======================= TROPHIES ======================= -->
-## 🏆 Achievements (Live Ranking, Animated Reveal)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandraprakashmishra18&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
 <!-- ======================= CONNECT ======================= -->
 ## 🌐 Connect With Me
 
@@ -196,4 +184,22 @@
        https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
      (one click "Deploy to Vercel" button on that page, then swap the
      domain in the two stats image URLs above to your own deployment URL).
+
+     METRICS DASHBOARD STILL BROKEN AFTER SETUP? Check these in order:
+     1. Actions tab -> did the "Generate Metrics Dashboard" workflow run
+        and succeed (green check), or did it fail (red X)? Click it to
+        read the error log — this tells you exactly what's wrong.
+     2. Is METRICS_TOKEN actually saved under Settings -> Secrets and
+        variables -> Actions in THIS repo (not your account-wide secrets,
+        not a different repo)?
+     3. Did the token get scopes "repo" and "read:user" when you created
+        it? A token with no scopes checked will cause an auth failure.
+     4. Is your default branch actually named "main"? If GitHub created
+        this repo with "master" as default, change the raw.githubusercontent
+        URL above from /main/ to /master/, or rename your default branch.
+     5. Classic PATs expire if you set an expiration date — check it
+        hasn't lapsed.
+     6. First run only: give it a minute after the workflow finishes,
+        then hard-refresh your profile page (Ctrl/Cmd+Shift+R) — browsers
+        aggressively cache broken image results.
 ====================================================================== -->
