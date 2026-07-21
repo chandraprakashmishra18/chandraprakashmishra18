@@ -46,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,node,express,mongodb,python,git,github,vscode&theme=dark" />
 </p>
 
-> 💡 Self-declared. For the actual language mix pulled live from your repos, see the **Metrics Dashboard** further down — its language chart is generated fresh inside your own repo, so it isn't affected by third-party rate limits the way the old widget was.
-
 <br/>
 
 <!-- ======================= STATS ======================= -->
@@ -69,7 +67,7 @@
 <br/>
 
 <!-- ======================= SNAKE ======================= -->
-## 🐍 Contribution Snake (eats your real commit graph)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <picture>
@@ -79,7 +77,6 @@
   </picture>
 </p>
 
-> ⚠️ **Needs one-time setup** — this image comes from a workflow running inside your own repo, not a public server, so once set up it never randomly breaks. See "Making it bulletproof" at the bottom.
 
 <br/>
 
@@ -89,8 +86,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/chandraprakashmishra18/chandraprakashmishra18/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
-
-> ⚠️ **Also needs one-time setup**, same reason as the snake — but the payoff is worth it: an animated isometric contribution calendar and a real, draw-in language percentage chart, both generated from a workflow in your own repo, so it's rock solid once running.
 
 <br/>
 
@@ -139,7 +134,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <!-- TODO: replace with your LinkedIn handle -->
     <img src="https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"> <!-- TODO: replace with your email -->
+  <a href="mailto:prashantmishra44140@gmail.com"> <!-- TODO: replace with your email -->
     <img src="https://img.shields.io/badge/Gmail-F72585?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/YOUR_TWITTER"> <!-- TODO: replace or delete this line -->
