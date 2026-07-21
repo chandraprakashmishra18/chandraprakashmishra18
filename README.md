@@ -84,7 +84,7 @@
 ## 🧬 Full Metrics Dashboard (isometric calendar + real language %)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandraprakashmishra18/chandraprakashmishra18/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/chandraprakashmishra18/chandraprakashmishra18/refs/heads/main/.github/workflows/metrices.yml" alt="GitHub Metrics"/>
 </p>
 
 <br/>
