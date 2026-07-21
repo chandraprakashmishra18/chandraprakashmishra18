@@ -1,0 +1,38 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0033"/>
+      <stop offset="50%" stop-color="#2d0140"/>
+      <stop offset="100%" stop-color="#0f0020"/>
+    </linearGradient>
+    <clipPath id="clip1"><rect x="0" y="0" height="24" width="0"><animate attributeName="width" from="0" to="430" dur="0.05s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="0" height="24" width="0"><animate attributeName="width" from="0" to="380" dur="0.05s" begin="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip3"><rect x="0" y="0" height="24" width="0"><animate attributeName="width" from="0" to="470" dur="0.05s" begin="2.5s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="800" height="200" rx="14" fill="url(#bgGrad)" stroke="#F72585" stroke-opacity="0.4"/>
+
+  <!-- terminal chrome -->
+  <circle cx="28" cy="26" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="26" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="26" r="6" fill="#27C93F"/>
+  <text x="400" y="31" text-anchor="middle" font-family="Fira Code, monospace" font-size="12" fill="#9d7cd8">chandra@dev-machine: ~</text>
+  <line x1="0" y1="46" x2="800" y2="46" stroke="#F72585" stroke-opacity="0.25"/>
+
+  <g font-family="Fira Code, monospace" font-size="17" fill="#00F7FF">
+    <g clip-path="url(#clip1)">
+      <text x="30" y="85">const developer = {</text>
+    </g>
+    <g clip-path="url(#clip2)">
+      <text x="30" y="115">&#160;&#160;name: "Chandra Prakash Mishra",</text>
+    </g>
+    <g clip-path="url(#clip3)">
+      <text x="30" y="145">&#160;&#160;role: "Full Stack Developer", stack: "React + Node"</text>
+    </g>
+    <text x="30" y="175" fill="#F72585">};</text>
+  </g>
+
+  <rect x="655" y="160" width="10" height="18" fill="#F72585">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" begin="2.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
