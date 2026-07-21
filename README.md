@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chandraprakashmishra18?tab=repositories">
+  <a href="https://github.com/chandraprakashmishra18/leet-code-solutions.git">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandraprakashmishra18&label=Public%20Repos&query=%24.public_repos&color=7209B7&style=flat-square" alt="Public Repos"/>
   </a>
 </p>
@@ -35,7 +35,7 @@
 * 🌱 Deep diving into **DSA**, **System Design**, and performance optimization
 * ⚡ Focused on **clean architecture**, **UI/UX**, and **production-ready code**
 * 🧩 Interested in real-time systems, dashboards, and developer tooling
-* 📫 Reach me at **YOUR_EMAIL@gmail.com** <!-- TODO: replace with your email -->
+* 📫 Reach me at **prashantmishra44140@gmail.com** <!-- TODO: replace with your email -->
 
 <br/>
 
