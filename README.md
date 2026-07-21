@@ -80,14 +80,6 @@
 
 <br/>
 
-<!-- ======================= METRICS DASHBOARD ======================= -->
-## 🧬 Full Metrics Dashboard (isometric calendar + real language %)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandraprakashmishra18/chandraprakashmishra18/refs/heads/main/.github/workflows/metrices.yml" alt="GitHub Metrics"/>
-</p>
-
-<br/>
 
 <!-- ======================= PROJECTS ======================= -->
 ## 🔥 Featured Projects
@@ -123,7 +115,6 @@
   </tr>
 </table>
 
-> These use `shields.io` per-repo badges instead of the pin-card image API — they're far more reliable and load instantly since each is a tiny, independently cached badge rather than one big server-rendered card.
 
 <br/>
 
